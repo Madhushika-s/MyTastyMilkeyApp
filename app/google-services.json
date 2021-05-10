@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200630301646",
+    "project_id": "tasty-milky-4ad0f",
+    "storage_bucket": "tasty-milky-4ad0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200630301646:android:936cddad13c7330aa7f19f",
+        "android_client_info": {
+          "package_name": "com.tastymilky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200630301646-d2e0thm9rkm6pvocfqro3bh3pjvimu0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhrIYjodxluX1n9tnozwwLHvFnXZAQNeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200630301646-d2e0thm9rkm6pvocfqro3bh3pjvimu0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
